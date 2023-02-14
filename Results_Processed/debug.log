@@ -1,0 +1,936 @@
+[DeeController]-[main_web]-[INFO] - Reading index page: http://www.deeestuary.co.uk/lsarch.htm
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 1 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111222.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2022 End: 31-Dec-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 436
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_Nov_l111222.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 2 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070821.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2021 End: 31-Aug-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 601
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_Jul_l070821.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 3 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091022.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2022 End: 31-Oct-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 660
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_Sep_l091022.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 4 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070822.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 02-Jul-2022 End: 31-Aug-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 650
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_Jul_l070822.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 5 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010222.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2022 End: 28-Feb-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 462
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_Jan_l010222.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 6 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050622.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2022 End: 30-Jun-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 387
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_May_l050622.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 7 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030422.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2022
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2022 End: 30-Apr-2022
+[DeeParser]-[read_page]-[INFO] - No. of records: 729
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2022_Mar_l030422.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 8 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111221.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 02-Nov-2021 End: 31-Dec-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 707
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_Nov_l111221.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 9 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091021.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2021 End: 31-Oct-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 702
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_Sep_l091021.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 10 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050621.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2021 End: 30-Jun-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 371
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_May_l050621.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 11 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111217.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2017 End: 31-Dec-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 714
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_Nov_l111217.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 12 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030421.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2021 End: 30-Apr-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 740
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_Mar_l030421.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 13 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010221.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2021
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2021 End: 28-Feb-2021
+[DeeParser]-[read_page]-[INFO] - No. of records: 595
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2021_Jan_l010221.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 14 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111220.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2020 End: 31-Dec-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 679
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_Nov_l111220.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 15 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091020.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2020 End: 31-Oct-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 858
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_Sep_l091020.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 16 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010220.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2020 End: 29-Feb-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 520
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_Jan_l010220.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 17 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070820.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2020 End: 31-Aug-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 753
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_Jul_l070820.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 18 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050620.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2020 End: 30-Jun-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 392
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_May_l050620.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 19 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030420.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2020
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2020 End: 30-Apr-2020
+[DeeParser]-[read_page]-[INFO] - No. of records: 658
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2020_Mar_l030420.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 20 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091019.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2019 End: 31-Oct-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 725
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_Sep_l091019.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 21 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111219.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2019 End: 31-Dec-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 556
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_Nov_l111219.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 22 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050619.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2019 End: 30-Jun-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 411
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_May_l050619.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 23 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070819.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2019 End: 31-Aug-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 664
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_Jul_l070819.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 24 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010219.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2019 End: 28-Feb-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 576
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_Jan_l010219.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 25 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030419.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2019
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2019 End: 30-Apr-2019
+[DeeParser]-[read_page]-[INFO] - No. of records: 815
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2019_Mar_l030419.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 26 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111218.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2018 End: 31-Dec-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 665
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_Nov_l111218.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 27 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070818.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2018 End: 30-Aug-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 731
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_Jul_l070818.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 28 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091018.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2018 End: 31-Oct-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 708
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_Sep_l091018.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 29 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050618.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2018 End: 30-Jun-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 413
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_May_l050618.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 30 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030418.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2018 End: 30-Apr-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 946
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_Mar_l030418.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 31 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010218.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2018
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2018 End: 28-Feb-2018
+[DeeParser]-[read_page]-[INFO] - No. of records: 562
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2018_Jan_l010218.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 32 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091017.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2017 End: 31-Oct-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 886
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_Sep_l091017.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 33 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070817.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2017 End: 31-Aug-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 611
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_Jul_l070817.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 34 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030417.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2017 End: 30-Apr-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 755
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_Mar_l030417.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 35 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050617.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2017 End: 30-Jun-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 427
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_May_l050617.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 36 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070816.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2016 End: 31-Aug-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 603
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_Jul_l070816.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 37 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010217.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2017
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2017 End: 28-Feb-2017
+[DeeParser]-[read_page]-[INFO] - No. of records: 538
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2017_Jan_l010217.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 38 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111216.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2016 End: 31-Dec-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 593
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_Nov_l111216.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 39 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091016.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2016 End: 31-Oct-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 642
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_Sep_l091016.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 40 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010216.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2016 End: 29-Feb-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 546
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_Jan_l010216.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 41 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050616.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2016 End: 30-Jun-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 377
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_May_l050616.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 42 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030416.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2016
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2016 End: 30-Apr-2016
+[DeeParser]-[read_page]-[INFO] - No. of records: 770
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2016_Mar_l030416.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 43 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111215.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2015 End: 31-Dec-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 686
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_Nov_l111215.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 44 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091015.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 02-Sep-2015 End: 31-Oct-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 767
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_Sep_l091015.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 45 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050614.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 02-May-2014 End: 30-Jun-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 262
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_May_l050614.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 46 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070815.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2015 End: 31-Aug-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 656
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_Jul_l070815.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 47 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050615.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2015 End: 30-Jun-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 347
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_May_l050615.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 48 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030415.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2015 End: 30-Apr-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 697
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_Mar_l030415.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 49 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010215.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2015
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2015 End: 28-Feb-2015
+[DeeParser]-[read_page]-[INFO] - No. of records: 644
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2015_Jan_l010215.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 50 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111214.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2014 End: 31-Dec-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 546
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_Nov_l111214.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 51 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091014.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2014 End: 31-Oct-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 1010
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_Sep_l091014.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 52 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070814.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2014 End: 31-Aug-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 723
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_Jul_l070814.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 53 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030414.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2014 End: 30-Apr-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 764
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_Mar_l030414.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 54 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010214.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2014
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2014 End: 28-Feb-2014
+[DeeParser]-[read_page]-[INFO] - No. of records: 536
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2014_Jan_l010214.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 55 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111213.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2013 End: 31-Dec-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 518
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_Nov_l111213.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 56 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091013.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2013 End: 31-Oct-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 732
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_Sep_l091013.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 57 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030413.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2013 End: 30-Apr-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 1029
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_Mar_l030413.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 58 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070813.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2013 End: 31-Aug-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 610
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_Jul_l070813.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 59 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050613.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2013 End: 30-Jun-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 462
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_May_l050613.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 60 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010213.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2013
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2013 End: 28-Feb-2013
+[DeeParser]-[read_page]-[INFO] - No. of records: 740
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2013_Jan_l010213.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 61 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111212.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2012 End: 31-Dec-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 695
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_Nov_l111212.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 62 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l0506412.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2012 End: 30-Jun-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 560
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_May_l0506412.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 63 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091012.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2012 End: 31-Oct-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 844
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_Sep_l091012.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 64 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070812.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2012 End: 31-Aug-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 794
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_Jul_l070812.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 65 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030412.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2012 End: 30-Apr-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 913
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_Mar_l030412.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 66 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111211.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2011 End: 31-Dec-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 759
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_Nov_l111211.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 67 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010212.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2012
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2012 End: 29-Feb-2012
+[DeeParser]-[read_page]-[INFO] - No. of records: 720
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2012_Jan_l010212.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 68 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091011.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2011 End: 31-Oct-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 1099
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_Sep_l091011.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 69 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070811.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2011 End: 31-Aug-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 549
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_Jul_l070811.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 70 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030411.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 02-Mar-2011 End: 30-Apr-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 954
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_Mar_l030411.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 71 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050611.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2011 End: 29-Jun-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 499
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_May_l050611.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 72 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010111.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2011
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2011 End: 28-Feb-2011
+[DeeParser]-[read_page]-[INFO] - No. of records: 730
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2011_Jan_l010111.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 73 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111210.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 31-Oct-2010 End: 31-Dec-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 705
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_Oct_l111210.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 74 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091010.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2010 End: 31-Oct-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 778
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_Sep_l091010.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 75 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070810.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2010 End: 31-Aug-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 855
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_Jul_l070810.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 76 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050610.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2010 End: 30-Jun-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 329
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_May_l050610.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 77 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030410.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2010 End: 30-Apr-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 758
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_Mar_l030410.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 78 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010210.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2010
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2010 End: 28-Feb-2010
+[DeeParser]-[read_page]-[INFO] - No. of records: 698
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2010_Jan_l010210.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 79 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111209.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2009 End: 31-Dec-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 569
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_Nov_l111209.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 80 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091009.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2009 End: 31-Oct-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 551
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_Sep_l091009.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 81 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070809.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2009 End: 31-Aug-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 615
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_Jul_l070809.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 82 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050609.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2009 End: 30-Jun-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 411
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_May_l050609.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 83 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030409.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2009 End: 30-Apr-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 1007
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_Mar_l030409.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 84 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010209.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2009
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2009 End: 28-Feb-2009
+[DeeParser]-[read_page]-[INFO] - No. of records: 563
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2009_Jan_l010209.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 85 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111208.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2008 End: 31-Dec-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 666
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_Nov_l111208.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 86 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091008.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2008 End: 31-Oct-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 821
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_Sep_l091008.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 87 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070808.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2008 End: 31-Aug-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 719
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_Jul_l070808.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 88 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050608.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2008 End: 30-Jun-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 318
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_May_l050608.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 89 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030408.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2008 End: 30-Apr-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 828
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_Mar_l030408.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 90 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010208.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2008
+[DeeParser]-[read_page]-[INFO] - Start: 02-Jan-2008 End: 22-Feb-2008
+[DeeParser]-[read_page]-[INFO] - No. of records: 548
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2008_Jan_l010208.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 91 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111207.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 02-Nov-2007 End: 24-Dec-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 573
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_Nov_l111207.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 92 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091007.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2007 End: 31-Oct-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 765
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_Sep_l091007.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 93 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070807.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2007 End: 30-Aug-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 808
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_Jul_l070807.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 94 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050607.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2007 End: 30-Jun-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 445
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_May_l050607.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 95 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030407.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2007 End: 30-Apr-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 827
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_Mar_l030407.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 96 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010207.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2007
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2007 End: 28-Feb-2007
+[DeeParser]-[read_page]-[INFO] - No. of records: 691
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2007_Jan_l010207.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 97 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111206.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2006 End: 31-Dec-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 792
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_Nov_l111206.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 98 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091006.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2006 End: 30-Oct-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 704
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_Sep_l091006.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 99 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070806.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 02-Jul-2006 End: 30-Aug-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 578
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_Jul_l070806.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 100 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l050606.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2006 End: 30-Jun-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 439
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_May_l050606.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 101 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l030406.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2006 End: 30-Apr-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 761
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_Mar_l030406.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 102 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l010206.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2006
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2006 End: 28-Feb-2006
+[DeeParser]-[read_page]-[INFO] - No. of records: 675
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2006_Jan_l010206.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 103 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l111205.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 02-Nov-2005 End: 31-Dec-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 742
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_Nov_l111205.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 104 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l091005.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2005 End: 31-Oct-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 755
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_Sep_l091005.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 105 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/l070805.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2005 End: 31-Aug-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 477
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_Jul_l070805.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 106 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmj05.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2005 End: 30-Jun-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 251
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_May_lmj05.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 107 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmaap05.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2005 End: 30-Apr-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 508
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_Mar_lmaap05.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 108 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljafe05.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2005
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2005 End: 28-Feb-2005
+[DeeParser]-[read_page]-[INFO] - No. of records: 481
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2005_Jan_ljafe05.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 109 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lnovde04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2004 End: 31-Dec-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 392
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_Nov_lnovde04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 110 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lseoc04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2004 End: 31-Oct-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 435
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_Sep_lseoc04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 111 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljuau04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2004 End: 31-Aug-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 428
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_Jul_ljuau04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 112 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmaju04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2004 End: 30-Jun-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 232
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_May_lmaju04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 113 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmaapr04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2004 End: 30-Apr-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 573
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_Mar_lmaapr04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 114 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljafe04.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2004
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2004 End: 29-Feb-2004
+[DeeParser]-[read_page]-[INFO] - No. of records: 484
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2004_Jan_ljafe04.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 115 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lnovdec03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2003 End: 30-Dec-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 540
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_Nov_lnovdec03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 116 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lspot03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2003 End: 30-Oct-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 487
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_Sep_lspot03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 117 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljulaug03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2003 End: 30-Aug-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 491
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_Jul_ljulaug03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 118 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmyjn03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2003 End: 28-Jun-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 267
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_May_lmyjn03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 119 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmarapr03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2003 End: 29-Apr-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 617
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_Mar_lmarapr03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 120 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljanfb03.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2003
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2003 End: 27-Feb-2003
+[DeeParser]-[read_page]-[INFO] - No. of records: 572
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2003_Jan_ljanfb03.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 121 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lnode02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2002 End: 30-Dec-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 498
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_Nov_lnode02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 122 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lsepoc02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-Sep-2002 End: 28-Oct-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 469
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_Sep_lsepoc02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 123 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljulaug02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jul-2002 End: 29-Aug-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 536
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_Jul_ljulaug02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 124 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmayjun02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-May-2002 End: 28-Jun-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 284
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_May_lmayjun02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 125 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lmarapr02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-Mar-2002 End: 28-Apr-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 535
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_Mar_lmarapr02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 126 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljafb02.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2002
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2002 End: 26-Feb-2002
+[DeeParser]-[read_page]-[INFO] - No. of records: 413
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2002_Jan_ljafb02.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 127 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/loctnov01.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2001
+[DeeParser]-[read_page]-[INFO] - Start: 01-Oct-2001 End: 28-Nov-2001
+[DeeParser]-[read_page]-[INFO] - No. of records: 489
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2001_Oct_loctnov01.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 128 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lausep01.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2001
+[DeeParser]-[read_page]-[INFO] - Start: 01-Aug-2001 End: 28-Sep-2001
+[DeeParser]-[read_page]-[INFO] - No. of records: 683
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2001_Aug_lausep01.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 129 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljunjul01.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2001
+[DeeParser]-[read_page]-[INFO] - Start: 02-Jun-2001 End: 29-Jul-2001
+[DeeParser]-[read_page]-[INFO] - No. of records: 272
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2001_Jun_ljunjul01.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 130 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lapmay01.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2001
+[DeeParser]-[read_page]-[INFO] - Start: 01-Apr-2001 End: 26-May-2001
+[DeeParser]-[read_page]-[INFO] - No. of records: 388
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2001_Apr_lapmay01.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 131 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/ljanmar01.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2001
+[DeeParser]-[read_page]-[INFO] - Start: 01-Jan-2001 End: 29-Mar-2001
+[DeeParser]-[read_page]-[INFO] - No. of records: 569
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2001_Jan_ljanmar01.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 132 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/lnodec00.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2000
+[DeeParser]-[read_page]-[INFO] - Start: 01-Nov-2000 End: 28-Dec-2000
+[DeeParser]-[read_page]-[INFO] - No. of records: 322
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2000_Nov_lnodec00.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[main_web]-[INFO] - Processing page 133 of 133
+[DeeParser]-[read_page]-[INFO] - Page: http://www.deeestuary.co.uk/locno00.htm
+[DeeParser]-[read_page]-[INFO] - Year: 2000
+[DeeParser]-[read_page]-[INFO] - Start: 13-Sep-2000 End: 29-Oct-2000
+[DeeParser]-[read_page]-[INFO] - No. of records: 283
+[DeeController]-[write_file]-[INFO] - Writing file: Data/2000_Sep_locno00.htm.csv
+[DeeController]-[main_web]-[INFO] - ------------------------------------------------------------
+[DeeController]-[write_file]-[INFO] - Writing file: Data/_Results_All_Web.csv
+[DeeController]-[write_unknowns]-[INFO] - Writing file: Data/_Unknown_Locations.csv
+[DeeController]-[write_unknowns]-[INFO] - Writing file: Data/_Unknown_Species.csv
