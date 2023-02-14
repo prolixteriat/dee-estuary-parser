@@ -1,0 +1,622 @@
+Common,Scientific,Type,Abundance,Category,Abbreviation
+Capercaillie,Tetrao urogallus,Re-introduced Breeder,"1,000 - 10,000 Adults",CP,CAPER
+Black Grouse,Lyrurus tetrix,Resident Breeder,"1,000 - 10,000 Males",BK,BLAGR
+Ptarmigan,Lagopus muta,Resident Breeder,"1,000 - 10,000 Pairs",PM,PTARM
+Red Grouse,Lagopus lagopus,Resident Breeder,"100,000 - 500,000 Pairs",RG,REDGR
+Red-legged Partridge,Alectoris rufa,Introduced Breeder,"10,000 - 100,000 Territories",RL,RELPA
+Grey Partridge,Perdix perdix,Resident/Introduced Breeder,"10,000 - 100,000 Territories",P.,GREPA
+Quail,Coturnix coturnix,Migrant Breeder,500 - 1000 Males,Q.,QUAIL
+Pheasant,Phasianus colchicus,Introduced Breeder,4 million Birds,PH,PHEAS
+Golden Pheasant,Chrysolophus pictus,Introduced Breeder,100-500 Pairs,GF,GOLPH
+Lady Amherst’s Pheasant,Chrysolophus amherstiae,Introduced Breeder,1-10 Males,LM,LAAPH
+Brent Goose,Branta bernicla,Winter Visitor,"100,000 - 500,000 Birds",BG,BREGO
+Red-breasted Goose,Branta ruficollis,Accidental,10 - 100 Records,EB,REBGO
+Canada Goose,Branta canadensis,"Introduced Breeder, Accidental","10,000 - 100,000 Pairs",CG,CANGO
+Cackling Goose,Branta hutchinsii,Accidental,10 - 100 Records,LQ,
+Barnacle Goose,Branta leucopsis,"Escaped Breeder, Winter Visitor","100,000 - 500,000 Birds",BY,BARGO
+Snow Goose,Anser caerulescens,Scarce Visitor,10 - 100 Birds,SJ,SNOGO
+Greylag Goose,Anser anser,"Introduced/Resident Breeder, Winter Migrant","10,000 - 100,000 Pairs",GJ,GREGO
+Taiga Bean Goose,Anser fabalis,Winter Migrant,100-500 Birds,XF,
+Tundra Bean Goose,Anser serrirostris,Winter Migrant,100-500 Birds,XR,
+Pink-footed Goose,Anser brachyrhynchus,Winter Migrant,"500,000 - 1 million Birds",PG,PIFGO
+White-fronted Goose,Anser albifrons,Winter Migrant,"10,000 - 100,000 Birds",WG,WHFGO
+Lesser White-fronted Goose,Anser erythropus,Accidental,100-500 Records,LC,LWFGO
+Mute Swan,Cygnus olor,Resident/Introduced Breeder,"1,000 - 10,000 Pairs",MS,MUTSW
+Bewick's Swan,Cygnus columbianus,Winter Migrant,"1,000 - 10,000 Birds",BS,BEWSW
+Whooper Swan,Cygnus cygnus,"Scarce Breeder, Winter Migrant","10,000 - 100,000 Birds",WS,WHOSW
+Egyptian Goose,Alopochen aegyptiaca,Introduced Breeder,"1,000 - 10,000 Pairs",EG,EGYGO
+Shelduck,Tadorna tadorna,"Migrant/Resident Breeder, Winter Visitor","10,000 - 100,000 Pairs",SU,SHELD
+Ruddy Shelduck,Tadorna ferruginea,"Escaped, Former Visitor (Last Record 1946)",1-10 Records,UD,RUDSH
+Mandarin Duck,Aix galericulata,Introduced Breeder,"1,000 - 10,000 Pairs",MN,MANDA
+Baikal Teal,Sibirionetta formosa,Accidental,1-10 Records,IK,BAITE
+Garganey,Spatula querquedula,"Migrant Breeder, Passage Visitor",100-500 Pairs,GY,GARGA
+Blue-winged Teal,Spatula discors,Scarce Visitor,100-500 Records,TB,BLWTE
+Shoveler,Spatula clypeata,"Migrant Breeder, Passage/Winter Visitor",500 - 1000 Pairs,SV,SHOVE
+Gadwall,Mareca strepera,"Migrant/Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",GA,GADWA
+Falcated Duck,Mareca falcata,Accidental,1-10 Records,,
+Wigeon,Mareca penelope,"Resident Breeder, Winter Visitor","100,000 - 500,000 Birds",WN,WIGEO
+American Wigeon,Mareca americana,Scarce Visitor,10 - 100 Birds,AW,AMEWI
+Mallard,Anas platyrhynchos,"Introduced/Resident Breeder, Winter Visitor","100,000 - 500,000 Pairs",MA,MALLA
+American Black Duck,Anas rubripes,Accidental,10 - 100 Records,BD,BLADU
+Pintail,Anas acuta,"Resident/Migrant Breeder, Winter Visitor","10,000 - 100,000 Birds",PT,PINTA
+Teal,Anas crecca,"Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",T.,TEAL.
+Green-winged Teal,Anas carolinensis,Scarce Visitor,10 - 100 Birds,TA,GRWTE
+Red-crested Pochard,Netta rufina,"Escaped Breeder, Scarce Visitor",500 - 1000 Birds,RQ,RECPO
+Canvasback,Aythya valisineria,Accidental,1-10 Records,VB,
+Redhead,Aythya americana,Accidental,1-10 Records,AZ,
+Pochard,Aythya ferina,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Birds",PO,POCHA
+Ferruginous Duck,Aythya nyroca,Accidental,1-10 Birds,FD,FERDU
+Ring-necked Duck,Aythya collaris,Scarce Visitor,10 - 100 Birds,NG,RINDU
+Tufted Duck,Aythya fuligula,"Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",TU,TUFDU
+Scaup,Aythya marila,"Scarce Breeder, Passage/Winter Visitor","1,000 - 10,000 Birds",SP,SCAUP
+Lesser Scaup,Aythya affinis,Scarce Visitor,1-10 Birds,AY,
+Steller’s Eider,Polysticta stelleri,Accidental,10 - 100 Records,ES,STEEI
+King Eider,Somateria spectabilis,Accidental,100-500 Records,KE,KINEI
+Eider,Somateria mollissima,"Resident Breeder, Winter Visitor","10,000 - 100,000 Pairs",E.,EIDER
+Harlequin Duck,Histrionicus histrionicus,Accidental,10 - 100 Records,HQ,HARDU
+Surf Scoter,Melanitta perspicillata,Scarce Visitor,10 - 100 Birds,FS,SURSC
+Velvet Scoter,Melanitta fusca,Passage/Winter Visitor,"1,000 - 10,000 Birds",VS,VELSC
+White-winged Scoter,Melanitta deglandi,Accidental,1-10 Records,,
+Common Scoter,Melanitta nigra,"Resident/Migrant Breeder, Passage/Winter Visitor","100,000 - 500,000 Birds",CX,COMSC
+Black Scoter,Melanitta americana,Accidental,10 - 100 Records,DX,BLASC
+Long-tailed Duck,Clangula hyemalis,"Scarce Breeder, Winter Visitor","10,000 - 100,000 Birds",LN,LOTDU
+Bufflehead,Bucephala albeola,Accidental,10 - 100 Records,VH,BUFFL
+Goldeneye,Bucephala clangula,"Resident Breeder, Passage/Winter Visitor",100-500 Females,GN,GOLDE
+Barrow’s Goldeneye,Bucephala islandica,Accidental,1-10 Records,VG,BRWGO
+Smew,Mergellus albellus,Winter Visitor,100-500 Birds,SY,SMEW.
+Hooded Merganser,Lophodytes cucullatus,Accidental,1-10 Records,,
+Goosander,Mergus merganser,"Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",GD,GOOSA
+Red-breasted Merganser,Mergus serrator,"Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",RM,REBME
+Ruddy Duck,Oxyura jamaicensis,Introduced Breeder,10 - 100 Birds,RY,RUDDU
+Common Nighthawk,Chordeiles minor,Accidental,10 - 100 Records,,COMNI
+Red-necked Nightjar,Caprimulgus ruficollis,Not Recorded since 1856,,,RENNI
+Nightjar,Caprimulgus europaeus,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Males",NJ,NIJAR
+Egyptian Nightjar,Caprimulgus aegyptius,Accidental,1-10 Records,,EGYNI
+White-throated Needletail,Hirundapus caudacutus,Accidental,1-10 Records,NI,NETSW
+Chimney Swift,Chaetura pelagica,Accidental,10 - 100 Records,,CHISW
+Alpine Swift,Tachymarptis melba,Scarce Visitor,10 - 100 Birds,AI,ALPSW
+Swift,Apus apus,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",SI,SWIFT
+Pallid Swift,Apus pallidus,Accidental,10 - 100 Records,II,PALSW
+Pacific Swift,Apus pacificus,Accidental,1-10 Records,,PACSW
+Little Swift,Apus affinis,Accidental,10 - 100 Records,,LITSW
+White-rumped Swift,Apus caffer,Accidental,1-10 Records,,
+Ruby-throated Hummingbird,Archilochus colubris,"Reported, but does not occur",0 Records,,RUTHU
+Great Bustard,Otis tarda,"Re-introduced Breeder, Accidental",10 - 100 Records,US,GREBU
+Macqueen’s Bustard,Chlamydotis macqueenii,Accidental,1-10 Records,,
+Little Bustard,Tetrax tetrax,Accidental,10 - 100 Records,,LITBS
+Great Spotted Cuckoo,Clamator glandarius,Accidental,10 - 100 Records,UK,GRSCU
+Yellow-billed Cuckoo,Coccyzus americanus,Accidental,10 - 100 Records,,YEBCU
+Black-billed Cuckoo,Coccyzus erythropthalmus,Accidental,10 - 100 Records,,BLBCU
+Cuckoo,Cuculus canorus,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",CK,CUCKO
+Pallas’s Sandgrouse,Syrrhaptes paradoxus,"Accidental, Has Bred",1-10 Records,,PALSA
+Rock Dove,Columba livia,Resident Breeder,"500,000 - 1 million Pairs",DV,ROCDO
+Stock Dove,Columba oenas,"Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Territories",SD,STODO
+Woodpigeon,Columba palumbus,"Resident Breeder, Winter Visitor",5.3 million Pairs,WP,WOODP
+Turtle Dove,Streptopelia turtur,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Territories",TD,TURDO
+Oriental Turtle Dove,Streptopelia orientalis,Accidental,10 - 100 Records,,RUTDO
+Collared Dove,Streptopelia decaocto,Resident Breeder,"500,000 - 1 million Pairs",CD,COLDO
+Mourning Dove,Zenaida macroura,Accidental,1-10 Records,,
+Water Rail,Rallus aquaticus,"Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Territories",WA,WATRA
+Corncrake,Crex crex,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Males",CE,CORNC
+Little Crake,Porzana parva,Accidental,10 - 100 Records,JC,LITCR
+Baillon’s Crake,Porzana pusilla,"Occasional Breeder, Accidental",10 - 100 Records,VC,BAICR
+Spotted Crake,Porzana porzana,"Scarce Breeder, Passage Visitor",10 - 100 Males,AK,SPOCR
+Sora,Porzana carolina,Accidental,10 - 100 Records,JR,SORA.
+Western Swamphen,Porphyrio porphyrio,Accidental,1-10 Records,,PURSW
+Allen’s Gallinule,Porphyrio alleni,Accidental,1-10 Records,,ALLGA
+American Purple Gallinule,Porphyrio martinica,Accidental,1-10 Records,,AMPGA
+Moorhen,Gallinula chloropus,"Resident Breeder, Winter Visitor","100,000 - 500,000 Territories",MH,MOORH
+Coot,Fulica atra,"Resident Breeder, Winter Visitor","10,000 - 100,000 Pairs",CO,COOT.
+American Coot,Fulica americana,Accidental,1-10 Records,AO,AMECO
+Sandhill Crane,Antigone canadensis,Accidental,1-10 Records,,SANCR
+Crane,Grus grus,"Resident/Re-introduced Breeder, Passage Visitor",10 - 100 Pairs,AN,CRANE
+Little Grebe,Tachybaptus ruficollis,"Migrant/Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",LG,LITGR
+Pied-billed Grebe,Podilymbus podiceps,Accidental,10 - 100 Records,PJ,PIBGR
+Red-necked Grebe,Podiceps grisegena,"Scarce Breeder, Winter Visitor",10 - 100 Birds,RX,RENGR
+Great Crested Grebe,Podiceps cristatus,"Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",GG,GRCGR
+Slavonian Grebe,Podiceps auritus,"Resident Breeder, Winter Visitor",10 - 100 Pairs,SZ,SLAGR
+Black-necked Grebe,Podiceps nigricollis,"Migrant/Resident Breeder, Passage/Winter Visitor",10 - 100 Pairs,BN,BLNGR
+Stone-curlew,Burhinus oedicnemus,Migrant Breeder,100-500 Pairs,TN,STOCU
+Oystercatcher,Haematopus ostralegus,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",OC,OYSTE
+Black-winged Stilt,Himantopus himantopus,"Scarce Visitor, Has Bred",100-500 Records,IT,BLWST
+Avocet,Recurvirostra avosetta,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",AV,AVOCE
+Lapwing,Vanellus vanellus,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",L.,LAPWI
+Sociable Lapwing,Vanellus gregarius,Accidental,10 - 100 Records,IP,SOCPL
+White-tailed Lapwing,Vanellus leucurus,Accidental,1-10 Records,,WHTPL
+Golden Plover,Pluvialis apricaria,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",GP,GOLPL
+Pacific Golden Plover,Pluvialis fulva,Accidental,10 - 100 Records,IF,PAGPL
+American Golden Plover,Pluvialis dominica,Scarce Visitor,10 - 100 Birds,ID,AMGPL
+Grey Plover,Pluvialis squatarola,Passage/Winter Visitor,"10,000 - 100,000 Birds",GV,GREPL
+Ringed Plover,Charadrius hiaticula,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",RP,RINPL
+Semipalmated Plover,Charadrius semipalmatus,Accidental,1-10 Records,TV,SEMPL
+Little Ringed Plover,Charadrius dubius,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",LP,LIRPL
+Killdeer,Charadrius vociferus,Accidental,10 - 100 Records,KL,KILLD
+Kentish Plover,Charadrius alexandrinus,"Former Breeder, Scarce Visitor",10 - 100 Birds,KP,KENPL
+Lesser Sand Plover,Charadrius mongolus,Accidental,1-10 Records,DQ,
+Greater Sand Plover,Charadrius leschenaultii,Accidental,10 - 100 Records,DP,GRSPL
+Caspian Plover,Charadrius asiaticus,Accidental,1-10 Records,,CASPL
+Dotterel,Charadrius morinellus,"Migrant Breeder, Passage Visitor",500 - 1000 Males,DO,DOTTE
+Upland Sandpiper,Bartramia longicauda,Accidental,10 - 100 Records,UP,UPLSA
+Whimbrel,Numenius phaeopus,"Migrant Breeder, Passage Visitor",500 - 1000 Pairs,WM,WHIMB
+Little Curlew,Numenius minutus,Accidental,1-10 Records,,LITWH
+Eskimo Curlew,Numenius borealis,"Extinct (1963), Last Record 1887",,,ESKCU
+Curlew,Numenius arquata,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",CU,CURLE
+Bar-tailed Godwit,Limosa lapponica,Passage/Winter Visitor,"10,000 - 100,000 Birds",BA,BATGO
+Black-tailed Godwit,Limosa limosa,"Migrant Breeder, Passage/Winter Visitor",100-500 Pairs,BW,BLTGO
+Hudsonian Godwit,Limosa haemastica,Accidental,1-10 Records,HU,HUDGO
+Turnstone,Arenaria interpres,"Scarce Breeder, Passage/Winter Visitor","10,000 - 100,000 Birds",TT,TURNS
+Great Knot,Calidris tenuirostris,Accidental,1-10 Records,KO,
+Knot,Calidris canutus,Passage/Winter Visitor,"100,000 - 500,000 Birds",KN,KNOT.
+Ruff,Calidris pugnax,"Scarce Breeder, Passage/Winter Visitor",500 - 1000 Birds,RU,RUFF.
+Broad-billed Sandpiper,Calidris falcinellus,Accidental,100-500 Records,OA,BRBSA
+Sharp-tailed Sandpiper,Calidris acuminata,Accidental,10 - 100 Records,VV,SHTSA
+Stilt Sandpiper,Calidris himantopus,Accidental,10 - 100 Records,MI,STISA
+Curlew Sandpiper,Calidris ferruginea,Passage Visitor,500 - 1000 Birds,CV,CURSA
+Temminck’s Stint,Calidris temminckii,"Scarce Breeder, Passage Visitor",100-500 Birds,TK,TEMST
+Long-toed Stint,Calidris subminuta,Accidental,1-10 Records,,LOTST
+Red-necked Stint,Calidris ruficollis,Accidental,1-10 Records,,
+Sanderling,Calidris alba,Passage/Winter Visitor,"10,000 - 100,000 Birds",SS,SANDE
+Dunlin,Calidris alpina,"Migrant Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",DN,DUNLI
+Purple Sandpiper,Calidris maritima,"Scarce Breeder, Passage/Winter Visitor","1,000 - 10,000 Birds",PS,PURSA
+Baird’s Sandpiper,Calidris bairdii,Accidental,100-500 Records,BP,BAISA
+Little Stint,Calidris minuta,Passage Visitor,500 - 1000 Birds,LX,LITST
+Least Sandpiper,Calidris minutilla,Accidental,10 - 100 Records,EP,LEASA
+White-rumped Sandpiper,Calidris fuscicollis,Scarce Visitor,10 - 100 Birds,WU,WHRSA
+Buff-breasted Sandpiper,Calidris subruficollis,Scarce Visitor,10 - 100 Birds,BQ,BUBSA
+Pectoral Sandpiper,Calidris melanotos,"Scarce Visitor, Has probably bred",100-500 Birds,PP,PECSA
+Semipalmated Sandpiper,Calidris pusilla,Scarce Visitor,100-500 Records,PZ,SEMSA
+Western Sandpiper,Calidris mauri,Accidental,1-10 Records,ER,WESSA
+Long-billed Dowitcher,Limnodromus scolopaceus,Accidental,100-500 Records,LD,LOBDO
+Short-billed Dowitcher,Limnodromus griseus,Accidental,1-10 Records,,SHBDO
+Woodcock,Scolopax rusticola,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Males",WK,WOODC
+Jack Snipe,Lymnocryptes minimus,Passage/Winter Visitor,"100,000 - 500,000 Birds",JS,JACSN
+Great Snipe,Gallinago media,Accidental,100-500 Records,DS,GRESN
+Snipe,Gallinago gallinago,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",SN,SNIPE
+Wilson's Snipe,Gallinago delicata,Accidental,1-10 Records,,
+Terek Sandpiper,Xenus cinereus,Accidental,10 - 100 Records,TR,TERSA
+Wilson’s Phalarope,Phalaropus tricolor,Accidental,100-500 Records,WF,WILPH
+Red-necked Phalarope,Phalaropus lobatus,"Migrant Breeder, Passage Visitor",10 - 100 Males,NK,RENPH
+Grey Phalarope,Phalaropus fulicarius,Passage Visitor,100-500 Birds,PL,GREPH
+Common Sandpiper,Actitis hypoleucos,"Migrant Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",CS,COMSA
+Spotted Sandpiper,Actitis macularius,"Accidental, Has Bred",100-500 Records,PQ,SPOSA
+Green Sandpiper,Tringa ochropus,"Scarce Breeder, Passage/Winter Visitor",,GE,GRESA
+Solitary Sandpiper,Tringa solitaria,Accidental,10 - 100 Records,I.,SOLSA
+Grey-tailed Tattler,Tringa brevipes,Accidental,1-10 Records,YT,
+Lesser Yellowlegs,Tringa flavipes,Accidental,100-500 Records,LY,LESYE
+Redshank,Tringa totanus,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",RK,REDSH
+Marsh Sandpiper,Tringa stagnatilis,Accidental,100-500 Records,MD,MARSA
+Wood Sandpiper,Tringa glareola,"Scarce Breeder, Passage Visitor",,OD,WOOSA
+Spotted Redshank,Tringa erythropus,Passage/Winter Visitor,100-500 Birds,DR,SPORE
+Greenshank,Tringa nebularia,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",GK,GRESH
+Greater Yellowlegs,Tringa melanoleuca,Accidental,10 - 100 Records,LZ,GREYE
+Cream-coloured Courser,Cursorius cursor,Accidental,1-10 Records,,CRCCO
+Collared Pratincole,Glareola pratincola,Scarce Visitor,10 - 100 Records,KM,COLPR
+Oriental Pratincole,Glareola maldivarum,Accidental,1-10 Records,GM,
+Black-winged Pratincole,Glareola nordmanni,Accidental,10 - 100 Records,KW,BLWPR
+Kittiwake,Rissa tridactyla,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",KI,KITTI
+Ivory Gull,Pagophila eburnea,Accidental,10 - 100 Records,IV,IVOGU
+Sabine’s Gull,Xema sabini,Passage Visitor,100-500 Birds,AB,SABGU
+Slender-billed Gull,Chroicocephalus genei,Accidental,10 - 100 Records,EI,SLEGU
+Bonaparte’s Gull,Chroicocephalus philadelphia,Accidental,100-500 Records,ON,BONGU
+Black-headed Gull,Chroicocephalus ridibundus,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",BH,BLHGU
+Little Gull,Hydrocoloeus minutus,"Scarce Breeder, Passage/Winter Visitor",,LU,LITGU
+Ross’s Gull,Rhodostethia rosea,Accidental,10 - 100 Records,QG,ROSGU
+Laughing Gull,Leucophaeus atricilla,Accidental,100-500 Records,LF,LAUGU
+Franklin’s Gull,Leucophaeus pipixcan,Accidental,10 - 100 Records,FG,FRAGU
+Audouin's Gull,Ichthyaetus audouinii,Accidental,1-10 Records,,
+Mediterranean Gull,Ichthyaetus melanocephalus,"Migrant/Resident Breeder, Passage/Winter Visitor",500 - 1000 Pairs,MU,MEDGU
+Great Black-headed Gull,Ichthyaetus ichthyaetus,Not Recorded since 1859,,,GBHGU
+Common Gull,Larus canus,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",CM,COMGU
+Ring-billed Gull,Larus delawarensis,Scarce Visitor,10 - 100 Birds,IN,RIBGU
+Great Black-backed Gull,Larus marinus,"Resident Breeder, Winter Visitor","10,000 - 100,000 Pairs",GB,GBBGU
+Glaucous-winged Gull,Larus glaucescens,Accidental,1-10 Records,,GLWGU
+Glaucous Gull,Larus hyperboreus,Winter Visitor,100-500 Birds,GZ,GLAGU
+Iceland Gull,Larus glaucoides,Winter Visitor,100-500 Birds,IG,ICEGU
+Herring Gull,Larus argentatus,"Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",HG,HERGU
+American Herring Gull,Larus smithsonianus,Accidental,10 - 100 Records,,
+Caspian Gull,Larus cachinnans,Scarce Visitor,100-500 Birds,YC,CASGU
+Yellow-legged Gull,Larus michahellis,"Scarce Breeder, Passage/Winter Visitor",500 - 1000 Birds,YG,YELGU
+Slaty-backed Gull,Larus schistisagus,Accidental,1-10 Records,,
+Lesser Black-backed Gull,Larus fuscus,"Migrant/Resident Breeder, Passage Visitor","100,000 - 500,000 Pairs",LB,LBBGU
+Gull-billed Tern,Gelochelidon nilotica,"Scarce Visitor, Has Bred",100-500 Records,TG,GUBTE
+Caspian Tern,Hydroprogne caspia,Accidental,100-500 Records,CJ,CASTE
+Royal Tern,Thalasseus maximus,Accidental,1-10 Records,QT,ROYTE
+Lesser Crested Tern,Thalasseus bengalensis,Accidental,1-10 Records,TF,LECTE
+Sandwich Tern,Thalasseus sandvicensis,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",TE,SANTE
+Cabot's Tern,Thalasseus acuflavidus,Accidental,1-10 Records,,
+Elegant Tern,Thalasseus elegans,Accidental,1-10 Records,,ELETE
+Little Tern,Sternula albifrons,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",AF,LITTE
+Least Tern,Sternula antillarum,Accidental,1-10 Records,,
+Aleutian Tern,Onychoprion aleuticus,Accidental,1-10 Records,,ALETE
+Bridled Tern,Onychoprion anaethetus,Accidental,10 - 100 Records,,BRITE
+Sooty Tern,Onychoprion fuscatus,Accidental,10 - 100 Records,,SOOTE
+Roseate Tern,Sterna dougallii,"Migrant Breeder, Passage Visitor",10 - 100 Pairs,RS,ROSTE
+Common Tern,Sterna hirundo,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",CN,COMTE
+Arctic Tern,Sterna paradisaea,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",AE,ARCTE
+Forster’s Tern,Sterna forsteri,Accidental,10 - 100 Records,FO,FORTE
+Whiskered Tern,Chlidonias hybrida,Accidental,100-500 Records,WD,WHKTE
+White-winged Black Tern,Chlidonias leucopterus,Scarce Visitor,10 - 100 Birds,WJ,WWBTE
+Black Tern,Chlidonias niger,"Former Breeder, Passage Visitor",,BJ,BLATE
+Great Skua,Stercorarius skua,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",NX,GRESK
+Pomarine Skua,Stercorarius pomarinus,Passage Visitor,,PK,POMSK
+Arctic Skua,Stercorarius parasiticus,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",AC,ARCSK
+Long-tailed Skua,Stercorarius longicaudus,"Passage Visitor, Has Bred",,OG,LOTSK
+Little Auk,Alle alle,Passage/Winter Visitor,,LK,LITAU
+Brünnich’s Guillemot,Uria lomvia,Accidental,10 - 100 Records,TZ,BRUGU
+Guillemot,Uria aalge,"Migrant/Resident Breeder, Winter Visitor","500,000 - 1 million Pairs",GU,GUILL
+Razorbill,Alca torda,"Migrant/Resident Breeder, Winter Visitor","100,000 - 500,000 Pairs",RA,RAZOR
+Great Auk,Pinguinus impennis,"Extinct (1844) Former Breeder, Last recorded 1840",,,
+Black Guillemot,Cepphus grylle,Resident Breeder,"10,000 - 100,000 Pairs",TY,BLAGU
+Long-billed Murrelet,Brachyramphus perdix,Accidental,1-10 Records,,
+Ancient Murrelet,Synthliboramphus antiquus,Accidental,1-10 Records,,
+Puffin,Fratercula arctica,"Migrant/Resident Breeder, Passage/Winter Visitor","500,000 - 1 million Pairs",PU,PUFFI
+Tufted Puffin,Fratercula cirrhata,Accidental,1-10 Records,,
+Red-billed Tropicbird,Phaethon aethereus,Accidental,1-10 Records,,
+Ascension Frigatebird,Fregata aquila,Accidental,1-10 Records,,
+Red-throated Diver,Gavia stellata,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",RH,RETDI
+Black-throated Diver,Gavia arctica,"Migrant/Resident Breeder, Winter Visitor",100-500 Pairs,BV,BLTDI
+Pacific Diver,Gavia pacifica,Accidental,1-10 Records,KD,
+Great Northern Diver,Gavia immer,"Scarce Breeder, Winter Visitor","1,000 - 10,000 Birds",ND,GRNDI
+White-billed Diver,Gavia adamsii,Scarce Visitor,10 - 100 Birds,WV,WHBDI
+Wilson’s Storm Petrel,Oceanites oceanicus,Scarce Visitor,10 - 100 Birds,,WILPE
+White-faced Storm Petrel,Pelagodroma marina,Not Recorded since 1897,,,WHFPE
+Black-browed Albatross,Thalassarche melanophris,Accidental,10 - 100 Records,AA,BLBAL
+Atlantic Yellow-nosed Albatross,Thalassarche chlororhynchos,Accidental,1-10 Records,,YENAL
+Storm Petrel,Hydrobates pelagicus,Migrant Breeder,"10,000 - 100,000 Nests",TM,STOPE
+Swinhoe’s Storm Petrel,Oceanodroma monorhis,Accidental,1-10 Records,,SWSPE
+Leach’s Petrel,Oceanodroma leucorhoa,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",TL,LEAPE
+Fulmar,Fulmarus glacialis,"Migrant/Resident Breeder, Passage Visitor","500,000 - 1 million Pairs",F.,FULMA
+Black-capped Petrel,Pterodroma hasitata,Accidental,1-10 Records,,BLCPE
+Scopoli's Shearwater,Calonectris diomedea,Accidental,1-10 Records,,
+Cory’s Shearwater,Calonectris borealis,Scarce Migrant,500 - 1000 Birds,CQ,CORSH
+Sooty Shearwater,Ardenna grisea,Passage Visitor,,OT,SOOSH
+Great Shearwater,Ardenna gravis,Scarce Migrant,,GQ,GRTSH
+Manx Shearwater,Puffinus puffinus,Migrant Breeder,"100,000 - 500,000 Pairs",MX,MANSH
+Yelkouan Shearwater,Puffinus yelkouan,Accidental,1-10 Records,,
+Balearic Shearwater,Puffinus mauretanicus,Passage Visitor,"1,000 - 10,000 Birds",YQ,BALSH
+Barolo Shearwater,Puffinus baroli,Accidental,10 - 100 Records,MV,LITSH
+Black Stork,Ciconia nigra,Accidental,100-500 Records,OS,BLAST
+White Stork,Ciconia ciconia,"Former Breeder, Scarce Visitor",10 - 100 Birds,OR,WHIST
+Magnificent Frigatebird,Fregata magnificens,Accidental,1-10 Records,,
+Gannet,Morus bassanus,"Migrant/Resident Breeder, Passage Visitor","100,000 - 500,000 Nests",GX,GANNE
+Red-footed Booby,Sula sula,Accidental,1-10 Records,,
+Double-crested Cormorant,Phalacrocorax auritus,Accidental,1-10 Records,,
+Shag,Phalacrocorax aristotelis,Resident Breeder,"10,000 - 100,000 Pairs",SA,SHAG.
+Cormorant,Phalacrocorax carbo,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",CA,CORMO
+Glossy Ibis,Plegadis falcinellus,Scarce Visitor,10 - 100 Birds,IB,GLOIB
+Spoonbill,Platalea leucorodia,"Former, but now Scarce, Breeder, Scarce Visitor",10 - 100 Birds,NB,SPOON
+Bittern,Botaurus stellaris,"Resident Breeder, Winter Visitor",10 - 100 Males,BI,BITTE
+American Bittern,Botaurus lentiginosus,Accidental,1-10 Records,AM,AMEBI
+Little Bittern,Ixobrychus minutus,"Accidental, Has Bred",100-500 Records,LL,LITBI
+Night Heron,Nycticorax nycticorax,"Escaped Breeder, Scarce Visitor",10 - 100 Birds,NT,NIGHE
+Green Heron,Butorides virescens,Accidental,1-10 Records,HR,GRBHE
+Squacco Heron,Ardeola ralloides,Accidental,10 - 100 Records,QH,SQUHE
+Chinese Pond Heron,Ardeola bacchus,Accidental,1-10 Records,,
+Cattle Egret,Bubulcus ibis,"Scarce Visitor, Has Bred",10 - 100 Birds,EC,CATEG
+Grey Heron,Ardea cinerea,"Resident Breeder, Winter Visitor","10,000 - 100,000 Pairs",H.,GREHE
+Great Blue Heron,Ardea herodias,Accidental,1-10 Records,,
+Purple Heron,Ardea purpurea,"Scarce Visitor, Has Bred",10 - 100 Birds,UR,PURHE
+Great White Egret,Ardea alba,"Scarce Visitor, Has Bred",10 - 100 Birds,HW,GRWEG
+Snowy Egret,Egretta thula,Accidental,1-10 Records,NY,
+Little Egret,Egretta garzetta,"Resident Breeder, Passage Visitor",500 - 1000 Pairs,ET,LITEG
+Dalmatian Pelican,Pelecanus crispus,Accidental,1-10 Records,,
+Osprey,Pandion haliaetus,"Migrant Breeder, Passage Visitor",100-500 Pairs,OP,OSPRE
+Egyptian Vulture,Neophron percnopterus,Not Recorded since 1868,,,EGYVU
+Honey-buzzard,Pernis apivorus,"Migrant Breeder, Passage Visitor",100-500 Pairs,HZ,HONBU
+Short-toed Eagle,Circaetus gallicus,Accidental,1-10 Records,,SHTEA
+Spotted Eagle,Clanga clanga,Not Recorded since 1915,,,SPOEA
+Golden Eagle,Aquila chrysaetos,Resident Breeder,100-500 Pairs,EA,GOLEA
+Sparrowhawk,Accipiter nisus,"Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",SH,SPARR
+Goshawk,Accipiter gentilis,Re-introduced Breeder,100-500 Pairs,GI,GOSHA
+Marsh Harrier,Circus aeruginosus,"Migrant/Resident Breeder, Passage Visitor",100-500 Pairs,MR,MARHA
+Hen Harrier,Circus cyaneus,"Migrant/Resident Breeder, Passage/Winter Visitor",500 - 1000 Pairs,HH,HENHA
+Northern Harrier,Circus hudsonius,Accidental,1-10 Records,,
+Pallid Harrier,Circus macrourus,Accidental,10 - 100 Records,HI,PALHA
+Montagu’s Harrier,Circus pygargus,"Migrant Breeder, Passage Visitor",10 - 100 Pairs,MO,MONHA
+Red Kite,Milvus milvus,"Resident/Introduced Breeder, Passage Visitor","1,000 - 10,000 Pairs",KT,REDKI
+Black Kite,Milvus migrans,Scarce Visitor,10 - 100 Birds,KB,BLAKI
+White-tailed Eagle,Haliaeetus albicilla,"Re-introduced Breeder, Accidental",10 - 100 Pairs,WE,WHTEA
+Rough-legged Buzzard,Buteo lagopus,Passage/Winter Visitor,10 - 100 Birds,RF,ROLBU
+Buzzard,Buteo buteo,"Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",BZ,BUZZA
+Barn Owl,Tyto alba,Resident Breeder,"1,000 - 10,000 Pairs",BO,BAROW
+Scops Owl,Otus scops,Accidental,10 - 100 Records,IQ,SCOOW
+Snowy Owl,Bubo scandiacus,"Accidental, Former Breeder",100-500 Records,SO,SNOOW
+Eurasian Eagle-Owl,Bubo bubo,Escaped (?) Breeder,,EO,EAGOW
+Tawny Owl,Strix aluco,Resident Breeder,"10,000 - 100,000 Pairs",TO,TAWOW
+Hawk Owl,Surnia ulula,Accidental,1-10 Records,,HAWOW
+Little Owl,Athene noctua,Introduced Breeder,"1,000 - 10,000 Pairs",LO,LITOW
+Tengmalm’s Owl,Aegolius funereus,Accidental,1-10 Records,,TENOW
+Long-eared Owl,Asio otus,"Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",LE,LOEOW
+Short-eared Owl,Asio flammeus,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",SE,SHEOW
+Hoopoe,Upupa epops,"Scarce Visitor, Has Bred",100-500 Birds,HP,HOOPO
+Roller,Coracias garrulus,Accidental,100-500 Records,,ROLLE
+Kingfisher,Alcedo atthis,Migrant/Resident Breeder,"1,000 - 10,000 Pairs",KF,KINGF
+Belted Kingfisher,Megaceryle alcyon,Accidental,1-10 Records,,BELKI
+Blue-cheeked Bee-eater,Merops persicus,Accidental,1-10 Records,,BLCBE
+Bee-eater,Merops apiaster,"Scarce Visitor, Has Bred",10 - 100 Birds,MZ,BEEEA
+Wryneck,Jynx torquilla,"Former Breeder, Scarce Visitor",100-500 Birds,WY,WRYNE
+Yellow-bellied Sapsucker,Sphyrapicus varius,Accidental,1-10 Records,,YEBSA
+Lesser Spotted Woodpecker,Dryobates minor,Resident Breeder,"1,000 - 10,000 Pairs",LS,LESWO
+Great Spotted Woodpecker,Dendrocopos major,"Resident Breeder, Scarce Visitor","100,000 - 500,000 Pairs",GS,GRSWO
+Green Woodpecker,Picus viridis,Resident Breeder,"10,000 - 100,000 Pairs",G.,GREWO
+Lesser Kestrel,Falco naumanni,Accidental,10 - 100 Records,,LESKE
+Kestrel,Falco tinnunculus,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",K.,KESTR
+American Kestrel,Falco sparverius,Accidental,1-10 Records,,AMEKE
+Red-footed Falcon,Falco vespertinus,Scarce Visitor,10 - 100 Birds,FV,REFFA
+Amur Falcon,Falco amurensis,Accidental,1-10 Records,,
+Eleonora’s Falcon,Falco eleonorae,Accidental,1-10 Records,,ELEFA
+Merlin,Falco columbarius,"Migrant/Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",ML,MERLI
+Hobby,Falco subbuteo,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",HY,HOBBY
+Gyrfalcon,Falco rusticolus,Accidental,100-500 Records,YF,GYRFA
+Peregrine,Falco peregrinus,"Resident Breeder, Passage/Winter Visitor","1,000 - 10,000 Pairs",PE,PEREG
+Ring-necked Parakeet,Psittacula krameri,Introduced Breeder,"1,000 - 10,000 Pairs",RI,RINPA
+Eastern Phoebe,Sayornis phoebe,Accidental,1-10 Records,,
+Acadian Flycatcher,Empidonax virescens,Accidental,1-10 Records,,
+Alder Flycatcher,Empidonax alnorum,Accidental,1-10 Records,,
+Eastern Kingbird,Tyrannus tyrannus,Accidental,1-10 Records,,
+Brown Shrike,Lanius cristatus,Accidental,10 - 100 Records,,
+Red-backed Shrike,Lanius collurio,"Former Breeder, Scarce Visitor",100-500 Birds,ED,REBSH
+Daurian Shrike,Lanius isabellinus,Accidental,100-500 Records,IL,ISASH
+Turkestan Shrike,Lanius phoenicuroides,Accidental,1-10 Records,,
+Long-tailed Shrike,Lanius schach,Accidental,1-10 Records,,
+Lesser Grey Shrike,Lanius minor,Accidental,100-500 Records,,LEGSH
+Great Grey Shrike,Lanius excubitor,Passage/Winter Visitor,10 - 100 Birds,SR,GRGSH
+Woodchat Shrike,Lanius senator,Scarce Visitor,10 - 100 Birds,OO,WOOSH
+Masked Shrike,Lanius nubicus,Accidental,1-10 Records,,MASSH
+Yellow-throated Vireo,Vireo flavifrons,Accidental,1-10 Records,,
+Philadelphia Vireo,Vireo philadelphicus,Accidental,1-10 Records,,PHIVI
+Red-eyed Vireo,Vireo olivaceus,Accidental,100-500 Records,EV,REEVI
+Golden Oriole,Oriolus oriolus,"Scarce Breeder, Passage Visitor",1-10 Pairs,OL,GOLOR
+Jay,Garrulus glandarius,Resident Breeder,"100,000 - 500,000 Territories",J.,JAY..
+Magpie,Pica pica,Resident Breeder,"500,000 - 1 million Territories",MG,MAGPI
+Nutcracker,Nucifraga caryocatactes,Accidental,,NC,NUTCR
+Chough,Pyrrhocorax pyrrhocorax,Resident Breeder,100-500 Pairs,CF,CHOUG
+Jackdaw,Coloeus monedula,"Resident Breeder, Winter Visitor",1.3 million Pairs,JD,JACKD
+Rook,Corvus frugilegus,"Resident Breeder, Winter Visitor","500,000 - 1 million Pairs",RO,ROOK.
+Carrion Crow,Corvus corone,"Resident Breeder, Winter Visitor",1 million Territories,C.,CARCR
+Hooded Crow,Corvus cornix,"Resident Breeder, Winter Visitor","100,000 - 500,000 Territories",HC,HOOCR
+Raven,Corvus corax,Resident Breeder,"1,000 - 10,000 Pairs",RN,RAVEN
+Waxwing,Bombycilla garrulus,Winter Visitor,"10,000 - 100,000 Birds",WX,WAXWI
+Cedar Waxwing,Bombycilla cedrorum,Accidental,1-10 Records,,
+Coal Tit,Periparus ater,Resident Breeder,"500,000 - 1 million Territories",CT,COATI
+Crested Tit,Lophophanes cristatus,Resident Breeder,"1,000 - 10,000 Pairs",CI,CRETI
+Marsh Tit,Poecile palustris,Resident Breeder,"10,000 - 100,000 Territories",MT,MARTI
+Willow Tit,Poecile montanus,Resident Breeder,"1,000 - 10,000 Pairs",WT,WILTI
+Blue Tit,Cyanistes caeruleus,"Resident Breeder, Winter Visitor",3.4 million Territories,BT,BLUTI
+Great Tit,Parus major,"Resident Breeder, Winter Visitor",2.5 million Territories,GT,GRETI
+Penduline Tit,Remiz pendulinus,Scarce Visitor,10 - 100 Birds,DT,PENTI
+Bearded Tit,Panurus biarmicus,"Resident Breeder, Passage/Winter Visitor",500 - 1000 Pairs,BR,BEATI
+Woodlark,Lullula arborea,"Resident/Migrant Breeder, Passage Visitor","1,000 - 10,000 Pairs",WL,WOODL
+White-winged Lark,Alauda leucoptera,Accidental,1-10 Records,,WHWLA
+Skylark,Alauda arvensis,"Resident Breeder, Passage/Winter Visitor",1.4 million Territories,S.,SKYLA
+Crested Lark,Galerida cristata,Accidental,10 - 100 Records,,CRELA
+Shore Lark,Eremophila alpestris,"Scarce Breeder, Winter Visitor",10 - 100 Birds,SX,SHOLA
+Short-toed Lark,Calandrella brachydactyla,Scarce Visitor,10 - 100 Birds,VL,SHTLA
+Bimaculated Lark,Melanocorypha bimaculata,Accidental,1-10 Records,,BIMLA
+Calandra Lark,Melanocorypha calandra,Accidental,10 - 100 Records,,CALLA
+Black Lark,Melanocorypha yeltoniensis,Accidental,1-10 Records,,
+Lesser Short-toed Lark,Alaudala rufescens,Accidental,1-10 Records,,LSTLA
+Sand Martin,Riparia riparia,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Nests",SM,SANMA
+Tree Swallow,Tachycineta bicolor,Accidental,1-10 Records,,
+Purple Martin,Progne subis,Accidental,1-10 Records,,
+Swallow,Hirundo rustica,"Migrant Breeder, Passage Visitor","500,000 - 1 million Territories",SL,SWALL
+Crag Martin,Ptyonoprogne rupestris,Accidental,10 - 100 Records,,CRAMA
+House Martin,Delichon urbicum,"Migrant Breeder, Passage Visitor","500,000 - 1 million Pairs",HM,HOUMA
+Red-rumped Swallow,Cecropis daurica,Scarce Visitor,10 - 100 Birds,VR,RERSW
+American Cliff Swallow,Petrochelidon pyrrhonota,Accidental,1-10 Records,,CLISW
+Cetti’s Warbler,Cettia cetti,"Resident Breeder, Passage Visitor","1,000 - 10,000 Males",CW,CETWA
+Long-tailed Tit,Aegithalos caudatus,Resident Breeder,"100,000 - 500,000 Territories",LT,LOTTI
+Wood Warbler,Phylloscopus sibilatrix,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Males",WO,WOOWA
+Western Bonelli’s Warbler,Phylloscopus bonelli,Accidental,100-500 Records,IW,BONWA
+Eastern Bonelli’s Warbler,Phylloscopus orientalis,Accidental,1-10 Records,,EABWA
+Hume’s Warbler,Phylloscopus humei,Accidental,100-500 Records,,HULWA
+Yellow-browed Warbler,Phylloscopus inornatus,Passage/Winter Visitor,"1,000 - 10,000 Birds",YB,YEBWA
+Pallas’s Warbler,Phylloscopus proregulus,Scarce Visitor,10 - 100 Birds,PA,PALWA
+Radde’s Warbler,Phylloscopus schwarzi,Scarce Visitor,10 - 100 Birds,,RADWA
+Dusky Warbler,Phylloscopus fuscatus,Scarce Visitor,10 - 100 Birds,UY,DUSWA
+Willow Warbler,Phylloscopus trochilus,"Migrant Breeder, Passage Visitor",2.2 million Territories,WW,WILWA
+Chiffchaff,Phylloscopus collybita,"Migrant Breeder, Passage/Winter Visitor",1.1 million Territories,CC,CHIFF
+Iberian Chiffchaff,Phylloscopus ibericus,"Accidental, Has Bred",10 - 100 Records,IR,IBECH
+Eastern Crowned Warbler,Phylloscopus coronatus,Accidental,1-10 Records,,
+Green Warbler,Phylloscopus nitidus,Accidental,1-10 Records,,GRNWA
+Two-barred Greenish Warbler,Phylloscopus plumbeitarsus,Accidental,1-10 Records,,
+Greenish Warbler,Phylloscopus trochiloides,Scarce Visitor,10 - 100 Birds,,GSHWA
+Pale-legged Leaf Warbler,Phylloscopus tenellipes,Accidental,1-10 Records,,
+Arctic Warbler,Phylloscopus borealis,Scarce Visitor,100-500 Records,AP,ARCWA
+Great Reed Warbler,Acrocephalus arundinaceus,Accidental,100-500 Records,QW,GRRWA
+Aquatic Warbler,Acrocephalus paludicola,Passage Visitor,10 - 100 Birds,AQ,AQUWA
+Sedge Warbler,Acrocephalus schoenobaenus,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Territories",SW,SEDWA
+Paddyfield Warbler,Acrocephalus agricola,Accidental,100-500 Records,PY,PADWA
+Blyth’s Reed Warbler,Acrocephalus dumetorum,Scarce Visitor,10 - 100 Birds,DU,BLRWA
+Reed Warbler,Acrocephalus scirpaceus,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Pairs",RW,REEWA
+Marsh Warbler,Acrocephalus palustris,"Scarce Visitor, Scarce Breeder",10 - 100 Birds,MW,MARWA
+Thick-billed Warbler,Arundinax aedon,Accidental,1-10 Records,,THBWA
+Booted Warbler,Iduna caligata,Accidental,100-500 Records,DM,BOOWA
+Sykes’s Warbler,Iduna rama,Accidental,10 - 100 Records,,SYKWA
+Eastern Olivaceous Warbler,Iduna pallida,Accidental,10 - 100 Records,,EAOWA
+Olive-tree Warbler,Hippolais olivetorum,Accidental,1-10 Records,,
+Melodious Warbler,Hippolais polyglotta,Scarce Visitor,10 - 100 Birds,ME,MELWA
+Icterine Warbler,Hippolais icterina,"Scarce Visitor, Scarce Breeder",10 - 100 Birds,IC,ICTWA
+Pallas’s Grasshopper Warbler,Helopsaltes certhiola,Accidental,10 - 100 Records,,PAGWA
+Lanceolated Warbler,Locustella lanceolata,Accidental,100-500 Records,,LANWA
+Grasshopper Warbler,Locustella naevia,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Territories",GH,GRAWA
+River Warbler,Locustella fluviatilis,Accidental,10 - 100 Records,VW,RIVWA
+Savi’s Warbler,Locustella luscinioides,"Scarce Visitor, Scarce Breeder",500 - 1000 Records,VI,SAVWA
+Zitting Cisticola,Cisticola juncidis,Accidental,1-10 Records,FZ,FATWA
+Blackcap,Sylvia atricapilla,"Migrant Breeder, Passage/Winter Visitor",1.1 million Territories,BC,BLACA
+Garden Warbler,Sylvia borin,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Territories",GW,GARWA
+Barred Warbler,Sylvia nisoria,Scarce Visitor,100-500 Birds,RR,BARWA
+Lesser Whitethroat,Sylvia curruca,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Territories",LW,LESWH
+Western Orphean Warbler,Sylvia hortensis,Accidental,1-10 Records,,ORPWA
+Eastern Orphean Warbler,Sylvia crassirostris,Accidental,1-10 Records,,
+Asian Desert Warbler,Sylvia nana,Accidental,10 - 100 Records,DA,DESWA
+Whitethroat,Sylvia communis,"Migrant Breeder, Passage Visitor",1.1 million Territories,WH,WHITE
+Dartford Warbler,Sylvia undata,Resident Breeder,"1,000 - 10,000 Pairs",DW,DARWA
+Marmora’s Warbler,Sylvia sarda,Accidental,1-10 Records,,MAMWA
+Spectacled Warbler,Sylvia conspicillata,Accidental,1-10 Records,VY,SPEWA
+Subalpine Warbler,Sylvia cantillans,Scarce Visitor,10 - 100 Birds,VZ,SUBWA
+Moltoni's Subalpine Warbler,Sylvia subalpina,Accidental,1-10 Records,,
+Sardinian Warbler,Sylvia melanocephala,Accidental,10 - 100 Records,VX,SARWA
+Rüppell’s Warbler,Sylvia ruppeli,Accidental,1-10 Records,,RUPWA
+Firecrest,Regulus ignicapilla,"Migrant/Resident Breeder, Passage/Winter Visitor",500 - 1000 Territories,FC,FIREC
+Goldcrest,Regulus regulus,"Resident Breeder, Passage/Winter Visitor","500,000 - 1 million Territories",GC,GOLDC
+Wren,Troglodytes troglodytes,"Resident Breeder, Passage/Winter Visitor",7.7 million Territories,WR,WREN.
+Nuthatch,Sitta europaea,Resident Breeder,"100,000 - 500,000 Territories",NH,NUTHA
+Red-breasted Nuthatch,Sitta canadensis,Accidental,1-10 Records,,
+Wallcreeper,Tichodroma muraria,Accidental,1-10 Records,,WALLC
+Treecreeper,Certhia familiaris,Resident Breeder,"100,000 - 500,000 Territories",TC,TREEC
+Short-toed Treecreeper,Certhia brachydactyla,Accidental,10 - 100 Records,TH,SHTTR
+Grey Catbird,Dumetella carolinensis,Accidental,1-10 Records,,
+Northern Mockingbird,Mimus polyglottos,Accidental,1-10 Records,,
+Brown Thrasher,Toxostoma rufum,Accidental,1-10 Records,,BROTH
+Rose-coloured Starling,Pastor roseus,Scarce Visitor,10 - 100 Birds,OE,ROCST
+Starling,Sturnus vulgaris,"Resident Breeder, Passage/Winter Visitor",1.8 million Pairs,SG,STARL
+Siberian Thrush,Geokichla sibirica,Accidental,10 - 100 Records,,SIBTH
+White’s Thrush,Zoothera aurea,Accidental,10 - 100 Records,,WHITH
+Varied Thrush,Ixoreus naevius,Accidental,1-10 Records,VT,
+Veery,Catharus fuscescens,Accidental,10 - 100 Records,,VEERY
+Grey-cheeked Thrush,Catharus minimus,Accidental,10 - 100 Records,,GRATH
+Swainson’s Thrush,Catharus ustulatus,Accidental,10 - 100 Records,,SWATH
+Hermit Thrush,Catharus guttatus,Accidental,10 - 100 Records,,HERTH
+Wood Thrush,Hylocichla mustelina,Accidental,1-10 Records,,
+Ring Ouzel,Turdus torquatus,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Territories",RZ,RINOU
+Blackbird,Turdus merula,"Migrant/Resident Breeder, Passage/Winter Visitor",4.9 million Pairs,B.,BLABI
+Eyebrowed Thrush,Turdus obscurus,Accidental,10 - 100 Records,,EYBTH
+Black-throated Thrush,Turdus atrogularis,Accidental,10 - 100 Records,XC,BLTTH
+Red-throated Thrush,Turdus ruficollis,Accidental,1-10 Records,,RETTH
+Naumann's Thrush,Turdus naumanni,Accidental,1-10 Records,,
+Dusky Thrush,Turdus eunomus,Accidental,10 - 100 Records,,DUSTH
+Fieldfare,Turdus pilaris,"Scarce Breeder, Passage/Winter Visitor","500,000 - 1 million Birds",FF,FIELD
+Redwing,Turdus iliacus,"Migrant/Resident Breeder, Passage/Winter Visitor","500,000 - 1 million Birds",RE,REDWI
+Song Thrush,Turdus philomelos,"Migrant/Resident Breeder, Passage/Winter Visitor",1.1 million Territories,ST,SONTH
+Mistle Thrush,Turdus viscivorus,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Territories",M.,MISTH
+American Robin,Turdus migratorius,Accidental,10 - 100 Records,AR,AMERO
+Rufous-tailed Scrub Robin,Cercotrichas galactotes,Accidental,1-10 Records,,RUBRO
+Spotted Flycatcher,Muscicapa striata,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Territories",SF,SPOFL
+Asian Brown Flycatcher,Muscicapa dauurica,Accidental,1-10 Records,,
+Robin,Erithacus rubecula,"Migrant/Resident Breeder, Passage/Winter Visitor",6 million Territories,R.,ROBIN
+Siberian Blue Robin,Larvivora cyane,Accidental,1-10 Records,,
+Rufous-tailed Robin,Larvivora sibilans,Accidental,1-10 Records,,RUTRO
+Bluethroat,Luscinia svecica,"Scarce Breeder, Passage Visitor",10 - 100 Birds,BU,BLUTH
+Thrush Nightingale,Luscinia luscinia,Accidental,100-500 Records,FN,THRNI
+Nightingale,Luscinia megarhynchos,"Migrant Breeder, Passage Visitor","1,000 - 10,000 Males",N.,NIGAL
+White-throated Robin,Irania gutturalis,Accidental,1-10 Records,,WHTRO
+Siberian Rubythroat,Calliope calliope,Accidental,10 - 100 Records,,SIBRU
+Red-flanked Bluetail,Tarsiger cyanurus,Scarce Visitor,100-500 Records,,REFBL
+Pied Flycatcher,Ficedula hypoleuca,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",PF,PIEFL
+Collared Flycatcher,Ficedula albicollis,Accidental,10 - 100 Records,,COLFL
+Red-breasted Flycatcher,Ficedula parva,Scarce Visitor,100-500 Birds,FY,REBFL
+Taiga Flycatcher,Ficedula albicilla,Accidental,1-10 Records,,TAIFL
+Black Redstart,Phoenicurus ochruros,"Migrant/Resident Breeder, Passage/Winter Visitor",10 - 100 Pairs,BX,BLARE
+Redstart,Phoenicurus phoenicurus,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Pairs",RT,REDST
+Moussier’s Redstart,Phoenicurus moussieri,Accidental,1-10 Records,,MOURE
+Rock Thrush,Monticola saxatilis,Accidental,10 - 100 Records,OH,ROCTH
+Blue Rock Thrush,Monticola solitarius,Accidental,1-10 Records,,BLRTH
+Whinchat,Saxicola rubetra,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",WC,WHINC
+Stonechat,Saxicola rubicola,Migrant/Resident Breeder,"10,000 - 100,000 Pairs",SC,STOCH
+Siberian Stonechat,Saxicola maurus,Accidental,100-500 Records,,
+Stejneger's Stonechat,Saxicola stejnegeri,Accidental,1-10 Records,,
+Wheatear,Oenanthe oenanthe,"Migrant Breeder, Passage Visitor","100,000 - 500,000 Pairs",W.,WHEAT
+Isabelline Wheatear,Oenanthe isabellina,Accidental,10 - 100 Records,,ISAWH
+Desert Wheatear,Oenanthe deserti,Accidental,100-500 Records,,DESWH
+Black-eared Wheatear,Oenanthe hispanica,Scarce Visitor,10 - 100 Records,,BLEWH
+Pied Wheatear,Oenanthe pleschanka,Accidental,10 - 100 Records,PI,PIEWH
+White-crowned Black Wheatear,Oenanthe leucopyga,Accidental,1-10 Records,,WHCBL
+Dipper,Cinclus cinclus,Resident Breeder,"10,000 - 100,000 Pairs",DI,DIPPE
+House Sparrow,Passer domesticus,Resident Breeder,5.1 million Pairs,HS,HOUSP
+Spanish Sparrow,Passer hispaniolensis,Accidental,10 - 100 Records,,SPASP
+Tree Sparrow,Passer montanus,"Resident Breeder, Passage Visitor","100,000 - 500,000 Territories",TS,TRESP
+Rock Sparrow,Petronia petronia,Accidental,1-10 Records,,ROCSP
+Alpine Accentor,Prunella collaris,Accidental,10 - 100 Records,,ALPAC
+Siberian Accentor,Prunella montanella,Accidental,10 - 100 Records,,
+Dunnock,Prunella modularis,"Resident Breeder, Passage/Winter Visitor",2.3 million Territories,D.,DUNNO
+Yellow Wagtail,Motacilla flava,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Territories",YW,YELWA
+Eastern Yellow Wagtail,Motacilla tschutschensis,Accidental,1-10 Records,,
+Citrine Wagtail,Motacilla citreola,Scarce Visitor,10 - 100 Birds,IZ,CITWA
+Grey Wagtail,Motacilla cinerea,"Resident Breeder, Passage Visitor","10,000 - 100,000 Pairs",GL,GREWA
+Pied Wagtail,Motacilla alba,"Migrant/Resident Breeder, Passage Visitor","100,000 - 500,000 Pairs",PW,PIEWA
+Richard’s Pipit,Anthus richardi,Scarce Visitor,100-500 Birds,PR,RICPI
+Blyth’s Pipit,Anthus godlewskii,Accidental,10 - 100 Records,,BLYPI
+Tawny Pipit,Anthus campestris,Accidental,10 - 100 Birds,TI,TAWPI
+Meadow Pipit,Anthus pratensis,"Migrant/Resident Breeder, Passage/Winter Visitor",1.9 million Pairs,MP,MEAPI
+Tree Pipit,Anthus trivialis,"Migrant Breeder, Passage Visitor","10,000 - 100,000 Pairs",TP,TREPI
+Olive-backed Pipit,Anthus hodgsoni,Scarce Visitor,10 - 100 Birds,OV,OLBPI
+Pechora Pipit,Anthus gustavi,Scarce Visitor,100-500 Records,,PECPI
+Red-throated Pipit,Anthus cervinus,Accidental,500 - 1000 Records,VP,RETPI
+Buff-bellied Pipit,Anthus rubescens,Accidental,10 - 100 Records,,AMEPI
+Water Pipit,Anthus spinoletta,Passage/Winter Visitor,100-500 Birds,WI,WATPI
+Rock Pipit,Anthus petrosus,"Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",RC,ROCPI
+Chaffinch,Fringilla coelebs,"Resident Breeder, Passage/Winter Visitor",5.8 million Territories,CH,CHAFF
+Brambling,Fringilla montifringilla,"Scarce Breeder, Passage/Winter Visitor","100,000 - 500,000 Birds",BL,BRAMB
+Evening Grosbeak,Hesperiphona vespertina,Accidental,1-10 Records,,EVEGR
+Hawfinch,Coccothraustes coccothraustes,"Resident Breeder, Passage Visitor",500 - 1000 Pairs,HF,HAWFI
+Pine Grosbeak,Pinicola enucleator,Accidental,1-10 Records,,PINGR
+Bullfinch,Pyrrhula pyrrhula,"Resident Breeder, Scarce Visitor","100,000 - 500,000 Territories",BF,BULLF
+Trumpeter Finch,Bucanetes githagineus,Accidental,10 - 100 Records,,TRUFI
+Common Rosefinch,Carpodacus erythrinus,"Scarce Breeder, Passage Visitor",100-500 Birds,SQ,SCARO
+Greenfinch,Chloris chloris,"Resident Breeder, Winter Visitor",1.7 million Pairs,GR,GREFI
+Twite,Linaria flavirostris,"Migrant/Resident Breeder, Winter Visitor","1,000 - 10,000 Pairs",TW,TWITE
+Linnet,Linaria cannabina,"Migrant/Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Territories",LI,LINNE
+Common Redpoll,Acanthis flammea,"Scarce Breeder, Passage/Winter Visitor",100-500 Birds,FR,COMRE
+Lesser Redpoll,Acanthis cabaret,Migrant/Resident Breeder,"100,000 - 500,000 Pairs",LR,LESRE
+Arctic Redpoll,Acanthis hornemanni,Scarce Visitor,10 - 100 Birds,AL,ARCRE
+Parrot Crossbill,Loxia pytyopsittacus,"Scarce Visitor, Occasional Breeder",100-500 Records,PC,PARCR
+Scottish Crossbill,Loxia scotica,Endemic Breeder,"1,000 - 10,000 Pairs",CY,SCOCR
+Common Crossbill,Loxia curvirostra,"Migrant/Resident Breeder, Passage/Winter Visitor","10,000 - 100,000 Pairs",CR,CROSS
+Two-barred Crossbill,Loxia leucoptera,Scarce Visitor,100-500 Records,PD,TWBCR
+Goldfinch,Carduelis carduelis,Migrant/Resident Breeder,1.2 million Pairs,GO,GOLDF
+Citril Finch,Carduelis citrinella,Accidental,1-10 Records,,CITFI
+Serin,Serinus serinus,"Scarce Visitor, Has bred",10 - 100 Birds,NS,SERIN
+Siskin,Spinus spinus,"Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Pairs",SK,SISKI
+Lapland Bunting,Calcarius lapponicus,"Scarce Breeder, Passage/Winter Visitor",500 - 1000 Birds,LA,LAPBU
+Snow Bunting,Plectrophenax nivalis,"Resident Breeder, Passage/Winter Visitor",10 - 100 Pairs,SB,SNOBU
+Corn Bunting,Emberiza calandra,"Resident Breeder, Passage Visitor","10,000 - 100,000 Territories",CB,CORBU
+Yellowhammer,Emberiza citrinella,"Resident Breeder, Passage/Winter Visitor","500,000 - 1 million Territories",Y.,YELHA
+Pine Bunting,Emberiza leucocephalos,Accidental,10 - 100 Records,EL,PINBU
+Rock Bunting,Emberiza cia,Accidental,1-10 Records,,ROCBU
+Ortolan Bunting,Emberiza hortulana,Scarce Visitor,10 - 100 Birds,OB,ORTBU
+Cretzschmar’s Bunting,Emberiza caesia,Accidental,1-10 Records,,CREBU
+Cirl Bunting,Emberiza cirlus,Resident Breeder,"1,000 - 10,000 Territories",CL,CIRBU
+Chestnut-eared Bunting,Emberiza fucata,Accidental,1-10 Records,,CHABU
+Little Bunting,Emberiza pusilla,Scarce Visitor,10 - 100 Birds,LJ,LITBU
+Yellow-browed Bunting,Emberiza chrysophrys,Accidental,1-10 Records,,YEBBU
+Rustic Bunting,Emberiza rustica,Accidental,500 - 1000 Records,,RUSBU
+Yellow-breasted Bunting,Emberiza aureola,Accidental,100-500 Records,YO,YBSBU
+Chestnut Bunting,Emberiza rutila,Accidental,1-10 Records,,
+Black-headed Bunting,Emberiza melanocephala,Accidental,100-500 Records,,BLHBU
+Black-faced Bunting,Emberiza spodocephala,Accidental,1-10 Records,,
+Pallas’s Reed Bunting,Emberiza pallasi,Accidental,1-10 Records,,PARBU
+Reed Bunting,Emberiza schoeniclus,"Resident Breeder, Passage/Winter Visitor","100,000 - 500,000 Territories",RB,REEBU
+Song Sparrow,Melospiza melodia,Accidental,1-10 Records,,SONSP
+White-crowned Sparrow,Zonotrichia leucophrys,Accidental,1-10 Records,,WHCSP
+White-throated Sparrow,Zonotrichia albicollis,Accidental,10 - 100 Records,,WHTSP
+Dark-eyed Junco,Junco hyemalis,Accidental,10 - 100 Records,JU,DAEJU
+Savannah Sparrow,Passerculus sandwichensis,Accidental,1-10 Records,,SAVSP
+Lark Sparrow,Chondestes grammacus,Accidental,1-10 Records,,LARSP
+Eastern Towhee,Pipilo erythrophthalmus,Accidental,1-10 Records,,RUSTO
+Bobolink,Dolichonyx oryzivorus,Accidental,10 - 100 Records,,BOBOL
+Baltimore Oriole,Icterus galbula,Accidental,10 - 100 Records,,NOROR
+Red-winged Blackbird,Agelaius phoeniceus,Accidental,1-10 Records,,
+Brown-headed Cowbird,Molothrus ater,Accidental,1-10 Records,,
+Ovenbird,Seiurus aurocapilla,Accidental,1-10 Records,,OVENB
+Northern Waterthrush,Parkesia noveboracensis,Accidental,1-10 Records,,NORWA
+Golden-winged Warbler,Vermivora chrysoptera,Accidental,1-10 Records,,
+Black-and-white Warbler,Mniotilta varia,Accidental,10 - 100 Records,,BAWWA
+Tennessee Warbler,Leiothlypis peregrina,Accidental,1-10 Records,,TENWA
+Common Yellowthroat,Geothlypis trichas,Accidental,10 - 100 Records,,COMYE
+Hooded Warbler,Setophaga citrina,Accidental,1-10 Records,,HOOWA
+American Redstart,Setophaga ruticilla,Accidental,1-10 Records,AD,AMERE
+Cape May Warbler,Setophaga tigrina,Accidental,1-10 Records,,CAMWA
+Northern Parula,Setophaga americana,Accidental,10 - 100 Records,,NORPA
+Magnolia Warbler,Setophaga magnolia,Accidental,1-10 Records,,MAGWA
+Bay-breasted Warbler,Setophaga castanea,Accidental,1-10 Records,,
+Blackburnian Warbler,Setophaga fusca,Accidental,1-10 Records,,
+Yellow Warbler,Setophaga aestiva,Accidental,1-10 Records,,YLWWA
+Chestnut-sided Warbler,Setophaga pensylvanica,Accidental,1-10 Records,,
+Blackpoll Warbler,Setophaga striata,Accidental,10 - 100 Records,,BLAWA
+Yellow-rumped Warbler,Setophaga coronata,Accidental,10 - 100 Records,,YERWA
+Wilson’s Warbler,Cardellina pusilla,Accidental,1-10 Records,,
+Summer Tanager,Piranga rubra,Accidental,1-10 Records,,SUMTA
+Scarlet Tanager,Piranga olivacea,Accidental,1-10 Records,,SCATA
+Rose-breasted Grosbeak,Pheucticus ludovicianus,Accidental,10 - 100 Records,,ROBGR
+Indigo Bunting,Passerina cyanea,Accidental,1-10 Records,,INDBU
