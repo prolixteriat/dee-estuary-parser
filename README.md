@@ -2,7 +2,7 @@
 Project to parse bird sighting data from http://www.deeestuary.co.uk/lsarch.htm site
 
 ## Overview
-The code can parse pages directly from the the Dee Estuary web site or from downloaded HTML pages (see the **HTML**folder for a copy of the downloaded pages).
+The code can parse pages directly from the the Dee Estuary web site or from downloaded HTML pages (see the **HTML** folder for a copy of the downloaded pages).
 Bird species and sightings locations which have been parsed from the web pages/files are matched against authoratative lists of accepted values. A fuzzy matching algorithm is used to suggest the closest match where an exact match cannot be found.
 Synonym lists are used to substitute any non-standard sex/stage information with equivalent standard values - e.g. 'drake' and 'm' become 'Male'; 'ringtail' and 'f' become 'Female'; 'imm' and 'chick' become 'Juvenile'. See **const.py** for full list of synonyms.
 A series of CSV files are produced by the app:
