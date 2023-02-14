@@ -48,4 +48,5 @@ There are several inherent characteristics of the source data which make automat
 - No formal structure to the data with a relatively high degree of variability in layout.
 - Variability in the underlying HTML.
 - No common data dictionary.
+
 Consequently, there will need to be a manual review and editing step prior to upload to Swift.
