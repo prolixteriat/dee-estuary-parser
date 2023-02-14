@@ -43,3 +43,9 @@ The code consists of three independent apps:
 All code is written in Python 3.10.5.
 pipfile and pipefile.lock files are provided to facilitate the download and installation of Python dependencies via the pipenv package manager: https://pipenv.pypa.io/en/latest/
 
+## Limitations
+There are several inherent characteristics of the source data which make automated processing somewhat difficult:
+- No formal structure to the data with a relatively high degree of variability in layout.
+- Variability in the underlying HTML.
+- No common data dictionary.
+Consequently, there will need to be a manual review and editing step prior to upload to Swift.
