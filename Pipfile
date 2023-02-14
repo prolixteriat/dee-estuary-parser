@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+bs4 = "*"
+pandas = "*"
+lxml = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+pywebcopy = "*"
+dateparser = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.10"
