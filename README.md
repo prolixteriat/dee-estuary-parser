@@ -43,7 +43,7 @@ The code consists of three independent apps:
 All code is written in Python 3.10.5.
 pipfile and pipefile.lock files are provided to facilitate the download and installation of Python dependencies via the pipenv package manager: https://pipenv.pypa.io/en/latest/
 
-## Limitations
+## Data Limitations
 There are several inherent characteristics of the source data which make automated processing somewhat difficult:
 - No formal structure to the data with a relatively high degree of variability in layout.
 - Variability in the underlying HTML.
