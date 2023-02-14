@@ -31,7 +31,7 @@ The code consists of three independent apps:
 - DeeHarvester.py
 - const.py
 
-**TestRunner** - coordinates execution of test functions across all in-scope module.
+**TestRunner** - coordinates execution of test functions across all in-scope code modules.
 - TestRunner.py
 - DeeHarvester.py
 - DeeController.py
@@ -41,5 +41,5 @@ The code consists of three independent apps:
 
 ## Code Environment
 All code is written in Python 3.10.5.
-pipfile and pipefile.lock files are provided to facilitate tje download and installation of dependencies via the pipenv package manager: https://pipenv.pypa.io/en/latest/
+pipfile and pipefile.lock files are provided to facilitate the download and installation of Python dependencies via the pipenv package manager: https://pipenv.pypa.io/en/latest/
 
