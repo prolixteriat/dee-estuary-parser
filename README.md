@@ -20,6 +20,7 @@ The results CVS files include columns suitable for upload directly to Swift (htt
 
 ## Code Structure
 The code consists of three independent apps:
+
 **DeeController** - coordinates the download, parsing, lookups and the output of results.
 - DeeController.py
 - DeeParser.py
