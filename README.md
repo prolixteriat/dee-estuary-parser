@@ -15,11 +15,11 @@ The results CSV files include columns suitable for upload directly to Swift (htt
 ## Folder Structure
 **HTML** - contains a zipped copy of the in-scope HTML pages downloaded from the website.
 
-**Reference** - contains the two CSV files used by the reference.py module for species and location matching purposes.
+**Reference** - contains the two CSV files used by the **reference.py** module for species and location matching purposes.
 
 **Results_Processed** - contains a partial set of results which have been formatted within Excel.
 
-**Results_Raw** - contains a zipped copy of the full set of results produced by DeeController.py.
+**Results_Raw** - contains a zipped copy of the full set of results produced by **DeeController.py**.
 
 ## Code Structure
 The code consists of three independent apps:
