@@ -1,5 +1,5 @@
-# DeeEstuary
-Project to parse bird sighting data from http://www.deeestuary.co.uk/lsarch.htm site
+# dee-estuary-parser
+Project to parse bird sighting data from http://www.deeestuary.co.uk/lsarch.htm site. The site contains data in a relatively unstructured format. The code transforms the data into a standard, structured format as a precursor to further post-processing.
 
 ## Overview
 The code can parse pages directly from the the Dee Estuary web site or from downloaded HTML pages (see the **HTML** folder for a copy of the downloaded pages).
@@ -53,4 +53,4 @@ There are several inherent characteristics of the source data which make automat
 - Variability in the underlying HTML.
 - No common data dictionary.
 
-Consequently, there will need to be a manual review and editing step prior to upload to Swift.
+Consequently, there will need to be a manual review and editing step prior to post-processing.
